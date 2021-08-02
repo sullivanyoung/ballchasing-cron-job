@@ -1,0 +1,23 @@
+{
+  "name": "cron-jobs-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.957.0",
+    "axios": "^0.21.1",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "json-2-csv": "^3.14.1",
+    "node-cron": "^2.0.3",
+    "uuid": "^8.3.2"
+  }
+}
